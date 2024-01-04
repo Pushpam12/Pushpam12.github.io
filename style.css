@@ -148,9 +148,6 @@ header img{
      html{
         font-size: 16px;
      }
-     header{
-        justify-content: start;
-     }
      .intro{
         grid-template-columns: 1fr;
 
